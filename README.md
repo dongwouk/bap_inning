@@ -48,8 +48,61 @@
 <br>
 
 ## 기술스택
-![](https://velog.velcdn.com/images/gangintheremark/post/d7206116-e9fc-431a-b04a-5f1a1701d624/image.png)
 
+<table align=center>
+    <tbody>
+        <tr>
+            <td>
+                  <p align=center>Frontend</p>
+            </td>
+            <td>
+                 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=ffffff">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align=center>Backend</p>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/springboot-6DB33F?logo=springboot&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/springsecurity-6DB33F?logo=springsecurity&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?logo=apachetomcat&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/maven-C71A36?logo=apachemaven&logoColor=ffffff">
+            </td>
+        </tr>
+                <tr>
+            <td>
+                <p align=center>DB & Access</p>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/MyBatis-000000">  
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align=center>Service</p>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Google Maps API-4285F4?logo=googlemaps&logoColor=ffffff">  
+                <img src="https://img.shields.io/badge/Amazon S3-569A31?logo=amazons3&logoColor=ffffff">  
+                <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?logo=naver&logoColor=ffffff">  
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align=center>Collaboration</p>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Notion-000000?logo=Notion">
+                <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=ffffff">
+            </td>
+        </tr>
+    </tbody>
+</table>
 <br>
 
 ## 프로젝트 흐름도
