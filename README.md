@@ -49,7 +49,7 @@
 
 ## 기술스택
 
-<table align=center>
+<table>
     <tbody>
         <tr>
             <td>
