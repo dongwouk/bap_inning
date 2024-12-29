@@ -72,7 +72,6 @@
 ![Admin1](https://velog.velcdn.com/images/gangintheremark/post/444f5700-aa49-43ef-8942-0df0e4277f94/image.gif)
 ![Admin2](https://velog.velcdn.com/images/gangintheremark/post/33a67e5d-ee10-4690-8f66-d747e1bfa55f/image.gif)
 
----
 
 ## 🏆 프로젝트 성과 및 수상  
 - **Spring Boot, MyBatis, AWS S3** 등의 백엔드 기술을 활용한 실무 경험 축적.  
