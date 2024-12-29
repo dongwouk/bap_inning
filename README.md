@@ -28,63 +28,21 @@
 </table>
 <br>
 
-## 기술스택
+**기술 스택:**  
+- **Java (JDK 1.8)**  
+- **HTML/CSS, JavaScript, Bootstrap**  
+- **Apache Tomcat 9.0**  
+- **Spring Boot 2.4.2, Spring Security, MyBatis**  
+- **Oracle Database 11g**  
+- **Eclipse, SQL Developer**  
+- **AWS S3, Jsoup**
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                  <p align=center>Frontend</p>
-            </td>
-            <td>
-                 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=ffffff">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align=center>Backend</p>
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/springboot-6DB33F?logo=springboot&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/springsecurity-6DB33F?logo=springsecurity&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?logo=apachetomcat&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/maven-C71A36?logo=apachemaven&logoColor=ffffff">
-            </td>
-        </tr>
-                <tr>
-            <td>
-                <p align=center>DB & Access</p>
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/MyBatis-000000">  
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align=center>Service</p>
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/Google Maps API-4285F4?logo=googlemaps&logoColor=ffffff">  
-                <img src="https://img.shields.io/badge/Amazon S3-569A31?logo=amazons3&logoColor=ffffff">  
-                <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?logo=naver&logoColor=ffffff">  
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align=center>Collaboration</p>
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/Notion-000000?logo=Notion">
-                <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=ffffff">
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
+**역할:**  
+- 세션 관리를 활용해 사용자 인증 및 권한 부여 기능 구현.  
+- 프론트엔드와 백엔드의 풀스택 개발을 통해 사용자 경험 최적화.  
+- AWS S3를 이용한 파일 업로드 및 관리 기능 구현.  
+- MyBatis를 활용한 데이터베이스 연동 및 최적화.  
+- HTML, CSS, JavaScript를 활용한 UI/UX 설계 및 개발.   
 
 ## 프로젝트 흐름도
 ![](https://velog.velcdn.com/images/gangintheremark/post/659d9767-5c41-45da-b749-13cb53687318/image.png)
@@ -118,3 +76,7 @@
 
 ## 🏆 수상 
 ![](https://velog.velcdn.com/images/gangintheremark/post/da0c7a50-b8f2-411a-8e6b-4429e58538f9/image.jpg)
+
+**성과:**  
+- 이번 프로젝트를 통해 **Spring Boot, MyBatis, AWS S3** 등의 백엔드 기술을 활용하며 실무 경험을 쌓을 수 있었습니다.  
+- **팀원들과의 협업** 과정에서 문제를 해결하고 서로 피드백을 주고받으며 **코드 품질과 개발 역량**을 한 단계 끌어올릴 수 있었습니다.
